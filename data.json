@@ -1,0 +1,74 @@
+[
+{
+    "nome":"Iluminação",
+    "descricao": "Garantir um pedal seguro também é se preocupar com iluminação. Sempre e bom recarregar as baterias das lanternas antes de qualquer pedal, pois para qualquer contratempo volteremos sem um pedal ILUMINADO (risos).",
+    "item": " -> Farol de bicicleta <-",
+    "link": "https://revistaridebike.com.br/qual-o-melhor-farol-para-bike/"
+},
+{
+    "nome":"Alimentação",
+    "descricao": "A alimentação é um dos fatores mais importantes para um bom pedal. Temos que ter em mente que o corpo irá precisar de energia para as células (normalmente proveniente de carboidratos que são convertidos em açúcares) e também muita atenção com os sais minerais do corpo, pois eles que irão garantir um bom funcionamento da musculatura. Ter sempre alimentos doces e salgados é sempre uma boa prática. Mas lembre-se, nada de comer coisas de difícil digestão. " ,
+    "item": " -> Salgados e doces <-",
+    "link": "https://www.ciclismopelomundo.com.br/nutricao-para-ciclistas-guia-completo/"
+},
+{
+    "nome":"Powerlink",
+    "descricao": "Só quem já ficou na mão por conta de uma peça tão pequena sabe como é. O power link consiste no elo de ligação da corrente e ninguém quer perdê-lo durtante um pedal. Ter pelo menos um powerlink de reserva dentro do seu porta treco é uma dica de ouro.",
+    "item": " -> PowerLink <-",
+    "link": "https://www.pedal.com.br/forum/power-link_topic8194.html"
+},
+{
+    "nome":"Reparos câmara de ar",
+    "descricao": "Uma facilidade para nós ciclistas são os tubos de CO2. Consiste em mini bujões contendo gás de CO2, a fim de substituir a bomba de encher. Isso otimiza muito espaço. MAS LEMBRE-SE: AO UITLIZAR OS TUBOS DE CO2 ELES PERDEM MUITO CALOR, PODENDO ATÉ GERAR QUEIMADURAS",
+    "item": " -> Refil co2 + Aplicador <-",
+    "link": "https://wallbike.com.br/como-utilizar-o-co2-para-encher-os-pneus/"
+},
+{
+    "nome":"Câmara de ar",
+    "descricao": "Ter uma câmara de ar reserva pode te salvar de uma longa espera até o socorro chegar. Hoje a maioria das bicicletas tem suas rodas presas por presilhas de pressão, facilitando a troca. Uma bomba para encher pneus deve obrigatoriamente estar presente no seu kit de sobrevivência",
+    "item": " -> Câmara de ar e bomba de encher pneu <-",
+    "link": "https://pedalemos.com.br/dicas/dicas-e-guias-de-ciclismo/como-trocar-a-camara-de-ar-da-bicicleta-um-guia-passo-a-passo-para-ciclistas-de-todos-os-niveis/"
+},
+{
+    "nome":"Pneu",
+    "descricao": "Trocar um pneu é mais fácil que trocar uma câmarra de ar, contudo se você precisar trocar o pneu, provavelmntente também precisará trocar a câmara de ar, ou pelo menos fazer um remendo nela, visto que será muito difícil estragar o pneu sem furar a câmara de ar.",
+    "item": " -> Pneu, bomba, câmara de ar ou remendo <-",
+    "link": "https://bikeregistrada.com.br/blog/passo-a-passo-como-substituir-pneus-e-camaras-de-ar/"
+},
+{
+    "nome":"Manchão",
+    "descricao": "O manchão é uma ótima altenativa para quem precisa fazer um reparo nos pneus e não está tão perto assim de uma oficina ou quer otimizar espaço e não quer ficar carregando um pneu em todos os pedais.  Basicamente consiste em um pedaço de pneu cortado que funcionará como vedação. Basta colocar esse pedaço na parte interna (entre a câmara e o pneu). ",
+    "item": " -> Manchão <-",
+    "link": "https://www.php.net/manual/pt_BR/"
+},
+{
+    "nome":"Hidratação",
+    "descricao": "Elemento muito importante para qualauer atividade física. Além das reposições de sais minerais e carboidratos, também precisamos nos manter bem hidratados, principalmente em dias quentes.",
+    "item": " -> Água <-",
+    "link": "https://bikeregistrada.com.br/blog/hidratacao-no-pedal-estrategias-para-manter-o-desempenho-e-evitar-a-desidratacao/"
+},
+{
+    "nome":"GPS",
+    "descricao": "Garantir a sua localização é algo fundamental para qualquer ciclista que queira encarar distâncias mais longas. Hoje a maioria dos celulares já possuem essa função e além disso temos smartwatch's, ciclocomputadores entre outros. Os apps memlhores apps para sua pedalada saõ: Strava, Wikiloc e Garmin Conect " ,
+    "item": " -> GPS <-",
+    "link": "https://girolivre.com/como-usar-o-gps-para-planejar-rotas-de-ciclismo/"
+},
+{
+    "nome":"Refil de CO₂",
+    "descricao": "Uma facilidade para nós ciclistas são os tubos de co2. Consiste em mini bujões contendo gás de CO₂, a fim de substituir a bomba de encher. Isso otimiza muito espaço. MAS LEMBRE-SE: AO UITLIZAR OS TUBOS DE CO2 ELES PERDEM MUITO CALOR, PODENDO ATÉ GERAR QUEIMADURAS",
+    "item": " -> Refil CO₂ + Aplicador <-",
+    "link": "https://wallbike.com.br/como-utilizar-o-co2-para-encher-os-pneus/"
+},
+{
+    "nome":"Proteção solar",
+    "descricao": "Atenção com este ponto. Proteções como cremes e roupas sempre são bem vindos, principalmente nos horários onde os raios solares podem ser mais nocivos.",
+    "item": " -> Roupas com porteção UV e cremes <-",
+    "link": "https://bikeregistrada.com.br/blog/protecao-solar-para-ciclistas-mantendo-a-pele-segura-durante-as-pedaladas/"
+},
+{
+    "nome":"Roupas confortáveis",
+    "descricao": "Hoje temos inúmeras opções, portanto a dica é escolher alguma roupa que você se sinta confortável. Tem a turma do bretele, das camisas de grupo e também quem simplesmente vai. Mas cuidado com calças longas, isso pode enroscar na corrente" ,
+    "item": " -> Roupas confortáveis <-",
+    "link": "https://www.diklatex.com.br/roupa-para-ciclistas-tecnologia-conforto-e-performance-para-quem-pedala/"
+}
+]
